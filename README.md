@@ -1,7 +1,7 @@
 # Introduction
 Based on my experience, this is how I would recommend to start learning programming and software development.
 
-## Start with the basics and visual
+## Start with the basics and visual 🌻
 
 ### 1. Basic tools to render a website
 - [HTML Course](https://www.youtube.com/watch?v=pQN-pnXPaVg)
@@ -14,6 +14,8 @@ Based on my experience, this is how I would recommend to start learning programm
 - [Build your own mini JS framework](https://www.youtube.com/watch?v=6BozpmSjk-Y)
 - [Introduction to JS frameworks and fundamentals](https://www.youtube.com/watch?v=wTpuKOhGfJE)
 - [Differences between frameworks](https://www.youtube.com/watch?v=cuHDQhDhvPE)
+
+## Welcome to the dark side 👽
 
 ### 3. Backend concepts
 - [Design patterns](https://www.youtube.com/watch?v=tv-_1er1mWI)
